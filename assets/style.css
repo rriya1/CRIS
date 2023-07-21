@@ -1,0 +1,22 @@
+body
+{
+    background-color: #D9E4F5;
+}
+.dropcol 
+{
+    margin-right: 5px; /* Adds right margin between columns */
+    margin-left:5px
+}
+
+/*-------------------------LIGHT THEME-------------------------------*/
+.head1light
+{
+    background: #3E82FC ;
+}
+
+.head2light
+{
+    background-color: #93B8FD;
+}
+
+/*------------------------- THEME-------------------------------*/
